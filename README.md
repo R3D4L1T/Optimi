@@ -1,8 +1,8 @@
-# Linear-Programming-Pulp 
-simple linear programming pulp with flet
+# OPTIMI
+simple linear programming with flet and python-Pulp
 
 
 # Requisitos
-Python3\\
+Python3 \
 Biblioteca PuLP
 

@@ -3,6 +3,6 @@ simple linear programming pulp with flet
 
 
 # Requisitos
-Python3
+Python3\\
 Biblioteca PuLP
 
